@@ -1,0 +1,5 @@
+/* Personas  */
+
+INSERT INTO usuarios (ID, NOMBRE, APELLIDO, PROCESADO) VALUES (1, 'BRAIDER','GARCIA',false);
+INSERT INTO usuarios (ID, NOMBRE, APELLIDO, PROCESADO) VALUES (2, 'YURY','POLO',false);
+
